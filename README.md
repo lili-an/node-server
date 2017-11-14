@@ -5,3 +5,5 @@
 可以直接打开以.js/.css/.json/.text结尾的文件内容
 
 运行node start 执行程序
+
+简单测试
